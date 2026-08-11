@@ -54,6 +54,12 @@ Personal trading records and observed execution history are designed to remain l
 
 See [Privacy](docs/PRIVACY.md) and [Screenshot Redaction](docs/SCREENSHOT_REDACTION.md).
 
+## Visual overview
+
+![SilentiumMarket product identity](assets/showcase/showcase-04-workstation-branding.png)
+
+The [public visual gallery](docs/VISUAL_OVERVIEW.md) presents SilentiumMarket's brand and high-level product direction. The artwork is illustrative and intentionally omits operational figures, detailed dashboard panels, private data, and proprietary decision logic.
+
 ## Public repository scope
 
 This repository intentionally includes only:
