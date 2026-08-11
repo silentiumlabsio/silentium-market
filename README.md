@@ -81,6 +81,15 @@ The current private test line is **v10.3.1**, focused on reliability, market-dat
 
 Read the sanitized [public changelog](CHANGELOG.md).
 
+## Documentation
+
+- [Feature overview](docs/FEATURES.md)
+- [Public glossary](docs/GLOSSARY.md)
+- [Known limitations](docs/KNOWN_LIMITATIONS.md)
+- [High-level architecture](docs/ARCHITECTURE.md)
+- [Visual overview](docs/VISUAL_OVERVIEW.md)
+- [Privacy](docs/PRIVACY.md) and [responsible use](docs/RESPONSIBLE_USE.md)
+
 ## Status
 
 SilentiumMarket is under private testing. It is not distributed through this repository and is not presented as an official RuneLite Plugin Hub release.
@@ -88,6 +97,8 @@ SilentiumMarket is under private testing. It is not distributed through this rep
 ## Important limitations
 
 No live-market tool can guarantee profit or guarantee zero false positives. Grand Exchange prices, liquidity, fill speed, and market conditions can change after a plan is generated. SilentiumMarket is designed to expose uncertainty and reject weak conditions rather than hide those limitations.
+
+See [Known Limitations](docs/KNOWN_LIMITATIONS.md) for additional execution, data-quality, and testing constraints.
 
 ## Issues and feedback
 

@@ -7,3 +7,5 @@ Do not add screenshots containing private account information, local paths, sess
 ## Showcase media
 
 The `showcase/` directory contains public-safe header artwork used by the visual gallery. These images retain branding and high-level product themes while omitting detailed operational panels, sample account values, technical internals, and decision thresholds.
+
+`social-preview.png` is the repository's public sharing image. It contains branding and repository-scope messaging only.

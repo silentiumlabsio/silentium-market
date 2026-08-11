@@ -4,6 +4,8 @@ Thank you for helping improve SilentiumMarket.
 
 This is a **public documentation and issue-tracking repository** for a closed-source project. The private implementation is not developed in this repository.
 
+All repository interactions must follow the [Community Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Good public contributions
 
 - documentation corrections;
