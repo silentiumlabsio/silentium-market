@@ -1,0 +1,30 @@
+name: Feature request
+description: Suggest a public-facing SilentiumMarket improvement.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or workflow
+      description: What problem would this improve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Describe the user-facing result. Avoid requesting publication of private implementation details.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why it matters
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Responsible-use boundary
+      options:
+        - label: This request keeps RuneScape actions manual and focuses on analytics/decision support.
+          required: true

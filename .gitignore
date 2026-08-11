@@ -1,0 +1,30 @@
+# Secrets / environment
+.env
+.env.*
+credentials*
+secrets*
+
+# Private runtime data
+data/
+logs/
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+*.jsonl
+
+# Private application/build artifacts
+node_modules/
+build/
+dist/
+*.class
+*.jar
+*.zip
+*.7z
+*.rar
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">SilentiumMarket</title>
+  <desc id="desc">SilentiumMarket public project banner by Silentium Labs</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090a0d"/>
+      <stop offset="0.55" stop-color="#11141a"/>
+      <stop offset="1" stop-color="#07080a"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7a0014"/>
+      <stop offset="0.5" stop-color="#dc143c"/>
+      <stop offset="1" stop-color="#ff3b5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="28" fill="url(#bg)"/>
+  <rect x="70" y="72" width="10" height="356" rx="5" fill="url(#red)"/>
+  <rect x="111" y="100" width="1320" height="1" fill="#2a2f38"/>
+  <rect x="111" y="398" width="1320" height="1" fill="#2a2f38"/>
+  <text x="120" y="245" fill="#f7f8fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="92" font-weight="750" letter-spacing="-2">SilentiumMarket</text>
+  <text x="124" y="312" fill="#b9bec8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="500" letter-spacing="3">GRAND EXCHANGE PROFIT INTELLIGENCE</text>
+  <text x="124" y="365" fill="#dc143c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="650" letter-spacing="2">SILENTIUM LABS</text>
+  <circle cx="1435" cy="250" r="84" fill="none" stroke="#252a33" stroke-width="2"/>
+  <circle cx="1435" cy="250" r="54" fill="none" stroke="#5b0a1b" stroke-width="5"/>
+  <path d="M1405 269 L1428 246 L1448 260 L1480 220" fill="none" stroke="#ff3154" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
